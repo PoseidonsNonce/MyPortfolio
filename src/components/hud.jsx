@@ -20,7 +20,7 @@ export default function Hud() {
             <h2 style={{fontSize:"1.5rem"}}> Web Developer / Programmer </h2>
             
             <ul>
-                <li style={{textDecoration:"underline", fontSize: "1.2rem"}}> <a target="_blank" href="https://github.com/PoseidonsNonce">Github</a></li>
+                <li style={{textDecoration:"underline", fontSize: "1.2rem"}}> <a target="_blank" href="https://github.com/chrislikescode">Github</a></li>
                 <li style={{textDecoration:"underline", fontSize: "1.2rem"}}> <a target="_blank" href="https://leetcode.com/ChrisWaddington/">LeetCode</a></li>
                 <li style={{textDecoration:"underline", fontSize: "1.2rem"}}> <a target="_blank" href="https://www.linkedin.com/in/chriswaddington06/">LinkedIn</a></li>
 
